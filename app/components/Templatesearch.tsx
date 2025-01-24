@@ -138,7 +138,7 @@ export default function TemplateSearch() {
       {/* Informational Banner */}
       <div className="bg-orange-100 text-orange-600 p-4 rounded mb-6">
         <p>
-          <strong>Tip!</strong> Get started with a free template. Can't find what you are looking for? Search from the
+          <strong>Tip!</strong> Get started with a free template. Can&apos;t find what you are looking for? Search from the
           1000+ available templates.
         </p>
       </div>

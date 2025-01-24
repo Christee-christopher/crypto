@@ -32,6 +32,7 @@ interface TemplatesState {
       } catch (error) {
         toast.error('Failed to fetch templates');
         return rejectWithValue('Failed to fetch templates');
+        console.error (error, {error})
       }
     }
   );
